@@ -14,3 +14,7 @@ test1
 create new branch dev
 
 add branch dev again
+
+stash 1
+
+div-1
